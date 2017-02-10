@@ -4,7 +4,7 @@ Portfolio projoct for Epicodus, demonstrating proficiency in HTML, CSS, and Boot
 ## Description
 This is the first Friday solo project for Epicodus. It is the first draft of my professional portfolio.
 ##Setup
-Open in a browser of your choice.
+Open in a browser of your choice. Here is  the <a href="https://ryanmcalpin.github.io/portfolio/">link</a>.
 ## Technologies Used
 #### * HTML
 #### * CSS
