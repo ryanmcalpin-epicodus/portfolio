@@ -3,7 +3,7 @@ body {
 }
 
 img {
-   height: 206px;
+   height: 236px;
 }
 
 p.indent {
@@ -30,4 +30,8 @@ em {
 .the-point {
   font-weight: bold;
   color: #560000;
+}
+
+.row {
+  width: 100%
 }
