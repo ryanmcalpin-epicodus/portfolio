@@ -22,3 +22,7 @@ li {
 em {
   font-size: 20px;
 }
+
+.right {
+  float: right;
+}
