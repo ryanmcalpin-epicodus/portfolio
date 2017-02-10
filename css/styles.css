@@ -5,3 +5,12 @@ img {
 .p-indent {
   text-indent: 20px;
 }
+
+p {
+  margin-bottom: 0px;
+  line-height: 20px;
+}
+
+li {
+  margin-top: 10px;
+}
