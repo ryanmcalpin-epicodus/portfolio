@@ -26,3 +26,8 @@ em {
 .right {
   float: right;
 }
+
+.the-point {
+  font-weight: bold;
+  color: #560000;
+}
