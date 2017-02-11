@@ -1,21 +1,17 @@
 body {
   font-size: 18px;
-  background-color: #003500;
+  background-color: #002801;
 }
-
 .jumbotron {
   margin-top: 20px;
   background-color: #e6fcd9;
 }
-
 .panel-heading {
   background-color: #e6fcd9!important;
 }
-
 a {
   color: #840000;
 }
-
 img.self {
    height: 236px;
    display: block;
@@ -23,37 +19,32 @@ img.self {
    margin-right: auto;
    border-radius: 5px;
 }
-
 img.catan {
   height: 180px;
 }
-
 p.indent {
   text-indent: 20px;
 }
-
 p {
   margin-bottom: 0px;
   line-height: 24px;
 }
-
+h1 {
+  margin-bottom: 20px;
+}
 li {
   margin-top: 10px;
 }
-
 em {
   font-size: 20px;
 }
-
 .right {
   float: right;
 }
-
 .the-point {
   font-weight: bold;
   color: #560000;
 }
-
 .row {
   width: 100%
 }
