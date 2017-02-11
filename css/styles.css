@@ -1,9 +1,30 @@
 body {
   font-size: 18px;
+  background-color: #003500;
 }
 
-img {
+.jumbotron {
+  margin-top: 20px;
+  background-color: #a9ff93;
+}
+
+.panel-heading {
+  background-color: #a9ff93!important;
+}
+
+a {
+  color: #840000;
+}
+
+img.self {
    height: 236px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+img.catan {
+  height: 180px;
 }
 
 p.indent {
