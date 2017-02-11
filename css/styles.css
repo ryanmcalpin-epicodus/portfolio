@@ -5,11 +5,11 @@ body {
 
 .jumbotron {
   margin-top: 20px;
-  background-color: #a9ff93;
+  background-color: #e6fcd9;
 }
 
 .panel-heading {
-  background-color: #a9ff93!important;
+  background-color: #e6fcd9!important;
 }
 
 a {
@@ -21,6 +21,7 @@ img.self {
    display: block;
    margin-left: auto;
    margin-right: auto;
+   border-radius: 5px;
 }
 
 img.catan {
